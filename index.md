@@ -5,24 +5,17 @@ tagline: Solving your problems.
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+I build websites and applications to solve specific problems. I know the challenges local and international companies are facing right now. Want to bost sales or traffic? Lets talk.
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+## What you get when you work with me
+<ul>
+<li>A framework or backend that is simple to service, update, and interact with.</li>
+<li>Preformance driven design.</li>
+<li>A designer with an open mind who takes client feedback seriously.</li>
+</ul>
+I do not sell people things they do not need. Are you a local or small business looking to get your old site updated and working with modern devices? I specialize in small and local business and understand how tight your budget probably is right now.
 
-## Update Author Attributes
 
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
-
-The theme should reference these variables whenever needed.
-    
 ## Sample Posts
 
 This blog contains sample posts which help stage pages and blog data.

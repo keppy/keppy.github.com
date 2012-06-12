@@ -9,13 +9,13 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
-tagline: Solving your problems
-author : James Dominguez
+title : Roastech
+
+author : 
   name : James Dominguez
   email : feralmode@gmail.com
   github : keppy
-  twitter : @keppy_rb
+  twitter : keppy_rb
   feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
