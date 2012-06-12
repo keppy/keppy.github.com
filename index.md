@@ -17,11 +17,14 @@ I build websites and applications to solve specific problems. I know the challen
 I live and work in the Seattle area. My clients consist of small local businesses and entrepreneurs. I love helping people make a living the way they want to. No matter what industry you are in, I can help you come up with effective ways of marketing yourself, your products, or your service.
 
 ## Tools I use
--Ruby on Rails
--Javascript
--HTML5
--CSS3
--gimp
--my 5+ years of small business experience
--my acute ability to find and harvest low hanging fruit 
--my compassionate spirit
+<ul>
+<li>Ruby on Rails</li>
+<li>Javascript</li>
+<li>HTML5</li>
+<li>CSS3</li>
+<li>gimp</li>
+<li>my 5+ years of small business experience</li>
+<li>my acute ability to find and harvest low hanging fruit</li>
+<li>a helpful aditude</li>
+</ul>
+
