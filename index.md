@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: James Dominguez @Roastech
+tagline: Solving your problems.
 ---
 {% include JB/setup %}
 
