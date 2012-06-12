@@ -5,7 +5,7 @@ tagline: Solving your problems.
 ---
 {% include JB/setup %}
 
-I live and work in the Seattle area. My clients consist of small local businesses and entrepreneurs. I love helping people make a living the way they want to. No matter what industry you are in, I come up with effective ways of marketing you, your products, or your services on the web.
+I live and work in the Seattle area--my clients consist of small local businesses and entrepreneurs. I love helping people make a living the way they want to. No matter what industry you are in, I come up with effective ways of marketing you, your products, or your services on the web.
 
 ## What you get when you work with me
 <ul>
@@ -22,8 +22,8 @@ I live and work in the Seattle area. My clients consist of small local businesse
 <li>HTML5</li>
 <li>CSS3</li>
 <li>gimp</li>
-<li>my 5+ years of small business experience</li>
-<li>my acute ability to find and harvest low hanging fruit</li>
-<li>a helpful attitude</li>
+<li>5+ years of small business experience</li>
+<li>My acute ability to find and harvest low hanging fruit</li>
+<li>A helpful attitude</li>
 </ul>
 My gmail account is keppy.rb--I look forward to solving your problems :)
