@@ -25,6 +25,6 @@ I live and work in the Seattle area. My clients consist of small local businesse
 <li>gimp</li>
 <li>my 5+ years of small business experience</li>
 <li>my acute ability to find and harvest low hanging fruit</li>
-<li>a helpful aditude</li>
+<li>a helpful attitude</li>
 </ul>
 
