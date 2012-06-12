@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>Roastech</title>
- <link href="http://user.github.com/atom.xml" rel="self"/>
- <link href="http://user.github.com"/>
- <updated>2012-06-11T21:21:22-07:00</updated>
- <id>http://user.github.com</id>
+ <link href="http://keppy.github.com/atom.xml" rel="self"/>
+ <link href="http://keppy.github.com"/>
+ <updated>2012-06-11T21:38:00-07:00</updated>
+ <id>http://keppy.github.com</id>
  <author>
    <name>James Dominguez</name>
    <email>feralmode@gmail.com</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Jekyll Introduction</title>
-   <link href="http://user.github.com/lessons/2011/12/29/jekyll-introduction"/>
+   <link href="http://keppy.github.com/lessons/2011/12/29/jekyll-introduction"/>
    <updated>2011-12-29T00:00:00-08:00</updated>
-   <id>http://user.github.com/lessons/2011/12/29/jekyll-introduction</id>
+   <id>http://keppy.github.com/lessons/2011/12/29/jekyll-introduction</id>
    <content type="html">&lt;p&gt;This Jekyll introduction will outline specifically what Jekyll is and why you would want to use it. Directly following the intro we&amp;#8217;ll learn exactly &lt;em&gt;how&lt;/em&gt; Jekyll does what it does.&lt;/p&gt;
 
 &lt;h2 id='overview'&gt;Overview&lt;/h2&gt;
