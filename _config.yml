@@ -9,7 +9,7 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Roastech
+title : Jekyll Bootstrap
 tagline: Solving your problems
 author : James Dominguez
   name : James Dominguez
