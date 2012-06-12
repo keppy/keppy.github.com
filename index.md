@@ -1,6 +1,6 @@
 ---
 layout: page
-title: James Dominguez @Roastech
+title: James Dominguez | Roastech
 tagline: Solving your problems.
 ---
 {% include JB/setup %}
