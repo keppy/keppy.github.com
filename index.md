@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Simple and effective web development.
-tagline: Solving your problems.
+title: Simple and effective web development
+tagline: Solving your problems
 ---
 {% include JB/setup %}
 

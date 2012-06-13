@@ -6,5 +6,3 @@ http://keppy.github.com/atom.xml
 http://keppy.github.com/categories.html
 http://keppy.github.com/archive.html
 http://keppy.github.com/sitemap.txt
-
-http://keppy.github.com/lessons/2011/12/29/jekyll-introduction
