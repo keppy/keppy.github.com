@@ -1,8 +1,8 @@
 
-http://keppy.github.com/pages.html
-http://keppy.github.com/index.html
-http://keppy.github.com/tags.html
-http://keppy.github.com/atom.xml
 http://keppy.github.com/categories.html
-http://keppy.github.com/archive.html
 http://keppy.github.com/sitemap.txt
+http://keppy.github.com/tags.html
+http://keppy.github.com/index.html
+http://keppy.github.com/archive.html
+http://keppy.github.com/pages.html
+http://keppy.github.com/atom.xml
