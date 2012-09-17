@@ -1,5 +1,6 @@
 ---
-title : Log 1 | A start
-categories :
+layout : post
+title : Log 1 
+categories : start
 ---
-I am at the begining of my log here. I will post my findings on computer science and the craft of programming.
+log start.
