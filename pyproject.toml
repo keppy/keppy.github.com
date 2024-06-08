@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "keppy-github-com"
+version = "0.1.0"
+description = "Keppy's personal github pages page"
+authors = ["keppy <keppy.rb@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+packages = [{include = "keppy"}]
+
+[tool.poetry.dependencies]
+python = "^3.12"
+mkdocs-material = "^9.5.26"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
